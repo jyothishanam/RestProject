@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <Pet>
+    <category>
+      <id>111</id>
+      <name>Sony</name>
+    </category>
+    <id>123</id>
+    <name>sony123</name>
+    <photoUrls>
+      <photoUrl>sonyphoto</photoUrl>
+    </photoUrls>
+    <status>available</status>
+    <tags>
+      <tag>
+        <id>1234</id>
+        <name>sonyname</name>
+      </tag>
+    </tags>
+  </Pet>

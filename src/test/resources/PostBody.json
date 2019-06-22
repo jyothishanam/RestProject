@@ -1,0 +1,18 @@
+{
+  "id":124,
+  "category": {
+    "id": 111,
+    "name": "Sony"
+  },
+  "name": "sony123",
+  "photoUrls": [
+    "sonyphoto"
+  ],
+  "tags": [
+    {
+      "id": 1234,
+      "name": "sonyname"
+    }
+  ],
+  "status": "available"
+}
