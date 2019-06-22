@@ -15,6 +15,9 @@ public void DelReq() {
 	
 	int code=response.getStatusCode();
 	
+	//Git: trying to commit more changes 
+	// bcd
+	
 	Assert.assertEquals(200, code);
 }
 
