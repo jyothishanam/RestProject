@@ -10,6 +10,7 @@ public class DeleteRequest {
 	
 @Test
 public void DelReq() {
+	//trying to commit from jyothi branch
 	
 	Response response=RestAssured.delete("https://petstore.swagger.io/v2/pet/130");
 	
